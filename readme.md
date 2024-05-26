@@ -20,3 +20,6 @@ requisitando o nome a ser colocado, enfim realizando as alterações corretas.</
 <img src="/imagens/image2.png" alt="segunda-imagem">
 <hr>
 <br>
+<p>✦ Resultado:</p>
+<img src="/imagens/image2.png" alt="segunda-imagem">
+<hr>
