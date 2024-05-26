@@ -19,5 +19,5 @@ requisitando o nome a ser colocado, enfim realizando as alterações corretas.</
 <hr>
 <br>
 <p>✦ Resultado:</p>
-<img src="/imagens/image2.png" alt="segunda-imagem">
+<img src="/imagens/image3.png" alt="segunda-imagem">
 <hr>
