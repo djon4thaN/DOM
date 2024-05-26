@@ -1,5 +1,4 @@
 <h1>    Manipulação de DOM</h1>
-<hr>
 <br>
 Neste trabalho foi realizado a manipulação do DOM no JavaScript.
 É possível notar que o site ficará mais dinâmico a partir das mudanças e,
