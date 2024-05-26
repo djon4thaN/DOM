@@ -29,15 +29,18 @@ requisitando o nome a ser colocado, enfim realizando as alterações corretas.</
 incrementar e zerar os cliques. Estes cliques serão realizados pelo usuário. O "incrementar"
 irá adicionar números ao contador e, o botão zerar, por sua vez irá zerá-los por completo,
 começando uma contagem do zero novamente.</p>
-<img src="/imagens/imagem-atv2.png" alt="imagem-inicial">
+<img src="/imagens/imagem-atv2.png" alt="imagem-atividade-2">
 <hr>
 <br>
 <p>✦ Aqui podemos ver que o contador contou seis (6) cliques realizados pelo usuário,
 e ele irá contabilizar o quanto quiser, dependendo somente do usuário para tal feito.</p>
-<img src="/imagens/imagem2-atv2.png" alt="segunda-imagem">
+<img src="/imagens/imagem2-atv2.png" alt="segunda-imagem-atividade-2">
 <hr>
 <br>
 <p>✦ A seguir, vêmos que o botão zerar retirou quaisquer números da tela, até mesmo o texto.
 Ele realizou a função de zerar os cliques para que pudéssemos novamente incrementar mais deles.</p>
-<img src="/imagens/imagem3-atv2.png" alt="segunda-imagem">
+<img src="/imagens/imagem3-atv2.png" alt="terceira-imagem-atividade-2">
 <hr>
+<br>
+<br>
+<h2>           Segundo Trabalho - Primeira Atividade</h2>
