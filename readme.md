@@ -43,4 +43,4 @@ Ele realizou a função de zerar os cliques para que pudéssemos novamente incre
 <hr>
 <br>
 <br>
-<h2>           Segundo Trabalho - Primeira Atividade</h2>
+<h2>         Segundo Trabalho - Primeira Atividade</h2>
