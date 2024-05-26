@@ -10,13 +10,11 @@ linhas de código escritas.</p>
 <p>✦ Nesta primeira imagem podemos notar que temos um botão e logo abaixo um texto.
 O botão terá como função atualizar o texto, modificando-o e adicionando um nome,
 deste que será o usuário em questão.</p>
-<br>
 <img src="/imagens/image.png" alt="imagem-inicial">
 <hr>
 <br>
 <p>✦ Após clicarmos no botão para alterar o texto, ele nos dará um prompt,
 requisitando o nome a ser colocado, enfim realizando as alterações corretas.</p>
-<br>
 <img src="/imagens/image2.png" alt="segunda-imagem">
 <hr>
 <br>
