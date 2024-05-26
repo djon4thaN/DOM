@@ -5,7 +5,7 @@
 linhas de código escritas.</p>
 <hr>
 <br>
-<h2>              Primeira Atividade</h2>
+<h2>             Primeira Atividade</h2>
 <br>
 <p>✦ Nesta primeira imagem podemos notar que temos um botão e logo abaixo um texto.
 O botão terá como função atualizar o texto, modificando-o e adicionando um nome,
