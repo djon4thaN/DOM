@@ -40,13 +40,3 @@ e ele irá contabilizar o quanto quiser, dependendo somente do usuário para tal
 <p>✦ A seguir, vêmos que o botão zerar retirou quaisquer números da tela, até mesmo o texto.
 Ele realizou a função de zerar os cliques para que pudéssemos novamente incrementar mais deles.</p>
 <img src="./atividade-1/imagens/imagem3-atv2.png" alt="terceira-imagem-atividade-2">
-<hr>
-<br>
-<br>
-<h2>        Segundo Trabalho - Primeira Atividade</h2>
-<br>
-<p>★ Aqui iniciamos a primeira atividade do segundo trabalho,
-nela veremos um poucos mais do que pude realizar com manipulação de DOM em
-JavaScript. Teremos como base agora cinco (5) cards. Nele, irei estilizando
-novas predefinições pelo JS. Inicialmente temos algo como:</p>
-<img src="./atividade-2/imagens/imagem.png" alt="primeira-imagem">
