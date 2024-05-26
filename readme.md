@@ -1,8 +1,8 @@
-<h1>    Manipulação de DOM</h1>
+<h1>        Manipulação de DOM</h1>
 <br>
-Neste trabalho foi realizado a manipulação do DOM no JavaScript.
+<p style="text-align: center;">Neste trabalho foi realizado a manipulação do DOM no JavaScript.
 É possível notar que o site ficará mais dinâmico a partir das mudanças e,
-linhas de código escritas.
+linhas de código escritas.</p>
 <hr>
 <br>
 Nesta primeira imagem podemos notar que temos um botão e logo abaixo um texto.
